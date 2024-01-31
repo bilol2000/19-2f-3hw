@@ -1,0 +1,17 @@
+body{
+  background-color: blueviolet;
+}
+.button1{
+  width: 80px;
+  height: 30px;
+  border-radius: 5px;
+  margin-top: 300px;
+  margin-left: 15px;
+  border: 2px solid  black;
+}
+input{
+  width: 200px;
+  height: 30px;
+  margin-left: 500px;
+  
+}
